@@ -11,11 +11,11 @@ Este sistema permite prever a probabilidade de um cliente abandonar a empresa da
 
 ![Exemplo da interface de usuário](assets/Interface-Exemplo.jpeg)  
 
-- O Jupider Notebook "nodebook.ipynb" contem detalhes sobre o passo a passo do projeto, graficos e comentários sobre a analise dos dados e conclusões tiradas destes, assim como o código necessario para o setup, treinamento e analise de precisão do modelo.
+- O Jupyder Notebook "nodebook.ipynb" contem detalhes sobre o passo a passo do projeto, graficos e comentários sobre a analise dos dados e conclusões tiradas destes, assim como o código necessario para o setup, treinamento e analise de precisão do modelo.
   
 ![Exemplo de graficos e analise de dados](assets/Jupiter-Exemplo.jpeg)  
 
-A ETL e limpeza de dados são detalhadas no Jupiter Notebook, assim como a interpretação destes.
+A ETL e limpeza de dados são detalhadas no Jupyter Notebook, assim como a interpretação destes.
 
 ## Técnologias Utilizadas
 - Para fins demonstrativos, o sistema ultilizou uma base de dados padrão fornecida pela [Kaggle](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis);
@@ -29,4 +29,4 @@ Os seguintes algoritmos de Machine Learning foram testados e estão disponiveis 
 - Arvores de Decisão
 - Random Forest
 
-Os testes também identificaram os parametros mais precisos para cada algoritimo aplicado a este problema especifico. Detalhes dos testes e seus resultados podem ser conferidos no Jupiter Notebook "nodebook.ipynb".
+Os testes também identificaram os parametros mais precisos para cada algoritimo aplicado a este problema especifico. Detalhes dos testes e seus resultados podem ser conferidos no Jupyter Notebook "nodebook.ipynb".
