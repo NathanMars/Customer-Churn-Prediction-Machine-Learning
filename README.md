@@ -9,11 +9,11 @@ Este sistema permite prever a probabilidade de um cliente abandonar a empresa da
 ## Estrutura
 - O arquivo "app.py" contem a estrutura central do sistema, ultilizando a biblioteca **streamlit** para criar uma interface permitindo ao usuário interagir com o modelo.
 
-![Exemplo da interface de usuário](assets\Interface-Exemplo.jpeg)  
+![Exemplo da interface de usuário](assets/Interface-Exemplo.jpeg)  
 
 - O Jupider Notebook "nodebook.ipynb" contem detalhes sobre o passo a passo do projeto, graficos e comentários sobre a analise dos dados e conclusões tiradas destes, assim como o código necessario para o setup, treinamento e analise de precisão do modelo.
   
-![Exemplo de graficos e analise de dados](assets\Jupiter-Exemplo.jpeg)  
+![Exemplo de graficos e analise de dados](assets/Jupiter-Exemplo.jpeg)  
 
 A ETL e limpeza de dados são detalhadas no Jupiter Notebook, assim como a interpretação destes.
 
