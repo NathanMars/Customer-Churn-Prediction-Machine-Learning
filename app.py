@@ -45,7 +45,7 @@ if predictbutton:
 
     prediction = model.predict(X_array)[0]
 
-    predicted = "SIM, Churn provavel!" if prediction == 1 else "NÃO, Churn improvavel!"
+    predicted = "Alta probablidade de Churn!" if prediction == 1 else "Baixa probabilidade de Churn!"
 
     st.write(f"Previsão: {predicted}")
 
